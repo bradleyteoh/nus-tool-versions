@@ -1,26 +1,6 @@
 {
   "latest": "4.5",
-  "message": "📝 Release notes body
-
- ## What's new in v4.5
- 
- ### ✨ New template columns
- | Column | Name | What it does |
- |--------|------|-------------|
- | G | **New Page** | Force a page break before this block |
- | H | **Carry Row** | Pull the last table row with this block onto the new page (with header) |
- 
- These solve the common issue of signature/summary blocks appearing alone on a new page with no context.
- 
- ### 🗂️ Updated block types guide
- The visual reference embedded in the Template tab now documents all column options (E–H).
- 
- ---
- 
- ### ⚠️ Action required on upgrade
- Templates from v4.4 or earlier are missing columns G and H.
- **Regenerate your template** (Generate Sample Template or Generate Filled Template) before running the report.
- ",
+  "message": "📝 Release notes body: New Page + Carry Row template controls. Regenerate your template before running.",
   "download_url": "https://sites.ey.com/:u:/r/sites/SingaporeAssuranceInnovation/Solutions/Nus_AupGenerator/NUS_v4.5.exe?csf=1&web=1&e=1fJ2M1",
    "zip_url": "https://sites.ey.com/:u:/r/sites/SingaporeAssuranceInnovation/Solutions/Nus_AupGenerator/NUS_AUP_Tool_v4.5.zip?csf=1&web=1&e=PAGled"
 }
